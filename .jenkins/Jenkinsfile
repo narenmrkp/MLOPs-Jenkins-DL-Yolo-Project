@@ -63,7 +63,7 @@ stage('Continuous Deployment') {
     }
   }
 }
-
+}
 
   post {
     always {
@@ -71,4 +71,4 @@ stage('Continuous Deployment') {
     }
   }
 }
-}
+
